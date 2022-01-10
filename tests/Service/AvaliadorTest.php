@@ -91,7 +91,7 @@ class AvaliadorTest extends TestCase
 
         $leilao->recebeLance(new Lance($maria, 2500));
         $leilao->recebeLance(new Lance($joao, 2000));
-        $leilao->recebeLance(new Lance($ana, 2700));
+        $leilao->recebeLance(new Lance($ana, 1700));
 
         return $leilao;
     }
