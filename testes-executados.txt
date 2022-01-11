@@ -13,4 +13,5 @@ Avaliador (Service\Avaliador)
  [x] Avaliador deve encontrar o menor valor de lances em ordem decrescente with data set "ordem aleatório"
  [x] Avaliador deve buscar 3 maiores valores
  [x] Leilao vazio nao pode ser avaliado
+ [x] Leilao finalizado nao pode ser avaliado
 
